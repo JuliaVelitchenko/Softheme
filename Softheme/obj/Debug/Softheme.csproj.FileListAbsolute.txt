@@ -1,0 +1,6 @@
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\bin\Debug\Softheme.exe.config
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\bin\Debug\Softheme.exe
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\bin\Debug\Softheme.pdb
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\obj\Debug\Softheme.csprojResolveAssemblyReference.cache
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\obj\Debug\Softheme.exe
+C:\Users\Zver\Desktop\C#\Softheme\Softheme\obj\Debug\Softheme.pdb
